@@ -1,0 +1,23 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "making a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vusal",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaguarvusal/README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jaguarvusal/README-Generator/issues"
+  },
+  "homepage": "https://github.com/jaguarvusal/README-Generator#readme"
+}
